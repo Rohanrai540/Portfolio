@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://rohan-portfolio-540.netlify.app/)
+🔗 [View Portfolio Live](https://portfolio-chi-drab-r976wkwauv.vercel.app/)
 
 ## 🛠️ Tech Stack
 
